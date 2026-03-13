@@ -109,6 +109,7 @@ Configure persistent preferences:
 - Virtual displays are tracked across sessions. If a display is removed externally (e.g. system reboot), you can use the **Forget** button in the Manage tab to clean up the record.
 - The VNC clip region feature allows you to share only the area of a display that matches a connected tablet or remote screen geometry.
 - `x11vnc` must be installed even if you don't plan to use VNC — the prerequisite check will prevent the app from starting otherwise.
+- If you accidently turn OFF your main display, a simple reboot will fix it.
 
 ---
 
